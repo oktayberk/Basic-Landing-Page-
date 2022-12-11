@@ -21,7 +21,7 @@ html{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 0.75rem;
+    padding: 0 0.76rem;
     height: 70px;
 }
 #navbar ul{
